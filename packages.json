@@ -7609,5 +7609,16 @@
     "description": "Karax is a framework for developing single page applications in Nim.",
     "license": "MIT",
     "web": "https://github.com/pragmagic/karax"
+  },
+  {
+    "name": "NimbleNumbers",
+    "url": "https://github.com/jdhorwitz/NimbleNumbers",
+    "method": "git",
+    "tags": [
+      "Numbers"
+    ],
+    "description": "Simple Math Package",
+    "license": "MIT",
+    "web": "https://github.com/jdhorwitz/NimbleNumbers"
   }
 ]
